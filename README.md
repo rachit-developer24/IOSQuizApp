@@ -1,4 +1,4 @@
-# ❓ Quiz App  
+#  Quiz App  
 
 A SwiftUI app that presents a multiple-choice quiz, tracks user progress, and displays results. Built with **MVVM architecture**, it demonstrates state management, conditional rendering, and interactive UI in SwiftUI.  
 
